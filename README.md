@@ -2,7 +2,7 @@
 This program takes the excel specification as input. Specification consists of articles and quantities.
 It returns a table indicating discounts and the profitability. 
 Input (excel sheet):
-|-----------|---------------------------|----------|----------------|------------|
+
 | article   | Denomination              | Quantity | Price per each | Price      |
 | 831122466 | Usher, привод без тормоза | 1        | 8.397,74       | 8.397,74   | 
 | 831122501 | БП USHER                  | 1        | 9.380,28       | 9.380,28   |
