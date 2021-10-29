@@ -4,6 +4,7 @@ It returns a table indicating discounts and the profitability.
 Input (excel sheet):
 
 | article   | Denomination              | Quantity | Price per each | Price      |
+|-----------|---------------------------|----------|----------------|------------|
 | 831122466 | Usher, привод без тормоза | 1        | 8.397,74       | 8.397,74   | 
 | 831122501 | БП USHER                  | 1        | 9.380,28       | 9.380,28   |
 | 831123124 | Боковое ограждение Usher  | 22       | 640,23         | 14.085,06  |
